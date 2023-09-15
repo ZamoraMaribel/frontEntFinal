@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.dentist-detail {
+  margin-top: 50px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-detail {
+  width: 300px;
+  margin: auto;
+}
+
+.dentist-email {
+  width: 300px;
+  padding: 8px;
+  margin: auto;
+}
+
+.dentist-website {
+  width: 300px;
+  padding: 8px;
+  margin: auto;
+}
+
+.dentist-detail-dark {
+  background-color: rgb(250, 136, 43);
+}
